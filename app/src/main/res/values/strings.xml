@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Sisvita</string>
+    <string name="pregunta1">1. Decir que no cuando te piden prestado el coche.</string>
+    <string name="pregunta2">2. Hacer un cumplido a  un amigo.</string>
+    <string name="pregunta3">3. Pedir un favor a alguien.</string>
+    <string name="pregunta4">4. Resistir ante la insistencia de un vendedor.</string>
+    <string name="pregunta5">5. Disculparse cuando cometes una falta.</string>
+    <string name="pregunta6">6. Rehusar una invitación a una cita o reunión.</string>
+    <string name="pregunta7">7. Admitir que estas asustado y pedir que te comprendan.</string>
+    <string name="pregunta8">8. Decir a una persona con la que mantienes una relación íntima que algo de lo que está haciendo o diciendo te molesta.</string>
+    <string name="pregunta9">9. Pedir un ascenso.</string>
+    <string name="pregunta10">10. Admitir tu ignorancia sobre un tema.</string>
+    <string name="pregunta11">11. Decir que no cuando te piden dinero prestado.</string>
+    <string name="pregunta12">12. Cortar a un amigo demasiado parlanchín.</string>
+    <string name="pregunta13">13. Hacer preguntas personales.</string>
+    <string name="pregunta14">14. Pedir críticas constructivas.</string>
+    <string name="pregunta15">15. Iniciar una conversación con un desconocido.</string>
+    <string name="pregunta16">16. Hacer un cumplido a una persona de la que estás enamorado o por la que estás interesado</string>
+    <string name="pregunta17">17. Pedir una cita a alguien.</string>
+    <string name="pregunta18">18. Pedir una cita a alguien que ya te rechazó en una ocasión.</string>
+    <string name="pregunta19">19. Admitir tus dudas sobre algún aspecto que se esté discutiendo y pedir que te lo aclaren.</string>
+    <string name="pregunta20">20. Solicitar un empleo.</string>
+    <string name="pregunta21">21. Preguntar a alguien si le has ofendido.</string>
+    <string name="pregunta22">22. Decir a alguien que te cae bien.</string>
+    <string name="pregunta23">23. Exigir que te atiendan cuando te hacen esperar mas de la cuenta (p. ej. en un restaurante).</string>
+    <string name="pregunta24">24. Discutir abiertamente con otra persona una crítica que haya hecho sobre tu forma de actuar.</string>
+    <string name="pregunta25">25. Devolver cosas defectuosas o en mal estado.</string>
+</resources>
